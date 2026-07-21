@@ -160,7 +160,7 @@ public class fivteen_number_patterns {
 					System.out.print(num+" ");
 					num++;
 				}
-			}else {
+			}else {                                      //15th one
 				int temp = num+3;
 				for(int j=n;j>=1;j--) {
 					System.out.print(temp+" ");
